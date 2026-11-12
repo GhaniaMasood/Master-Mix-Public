@@ -24,7 +24,7 @@
 
 Synthetic biology is a young field in Pakistan, and most undergraduates have nobody to ask: which research area fits me, how do I get into a lab, what does a PhD in this field actually involve? The few researchers who could answer are hard to reach without an existing connection.
 
-[SynBio Pakistan](https://www.linkedin.com/company/synbiopakistan) is a student-founded community that teaches synthetic biology for free through live lecture sessions. Master Mix is its mentorship layer: a simple way for students to find a mentor who has been where they are going, and for mentors to give a small amount of time to the right student.
+[SynBio Pakistan](https://www.linkedin.com/company/SynBiopakistan) is a student-founded community that teaches synthetic biology for free through live lecture sessions. Master Mix is its mentorship layer: a simple way for students to find a mentor who has been where they are going, and for mentors to give a small amount of time to the right student.
 
 The name is a small lab pun. In the lab, a master mix is the pre-made reaction mix you pipette into every tube. Here, MM also stands for mentor and mentee matching.
 
